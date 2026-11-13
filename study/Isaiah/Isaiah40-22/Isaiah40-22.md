@@ -25,6 +25,11 @@
 | אֹהֶל | オーヘル | 天幕、テント |
 | לָשָׁבֶת | ラーシャーヴェト | 住むために、居住するために |
 
+### 参照音源
+[Chapter-by-Chapter MP3 Recordings of the Hebrew Bible](https://mechon-mamre.org/p/pt/ptmp3prq.htm)
+
+[Hebrew Audio Player](https://hebrew-tools.org/hebrew-audio-player/)
+
 ## 語順に沿った逐語訳
 
 地の円の上に座している者、  
@@ -39,3 +44,5 @@
 ## KJV
 
 It is he that sitteth upon the circle of the earth, and the inhabitants thereof are as grasshoppers; that stretcheth out the heavens as a curtain, and spreadeth them out as a tent to dwell in:
+
+
